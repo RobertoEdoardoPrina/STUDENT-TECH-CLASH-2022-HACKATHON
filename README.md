@@ -9,5 +9,5 @@ Partecipants:
 
 - [Roberto Prina](https://github.com/RobertoEdoardoPrina)
 - [Lorenzo Olearo](https://github.com/LorenzoOlearo)
-- [Elisa Pioldi]()
-- [Edoardo]()
+- [Elisa Pioldi](https://github.com/epi-xel)
+- [Edoardo](https://github.com/EdoF0)
