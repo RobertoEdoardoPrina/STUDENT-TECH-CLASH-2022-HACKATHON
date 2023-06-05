@@ -8,6 +8,6 @@ Hackathon made by Reply
 Partecipants:
 
 - [Roberto Prina](https://github.com/RobertoEdoardoPrina)
-- [Lorenzo Olearo]()
+- [Lorenzo Olearo](https://github.com/LorenzoOlearo)
 - [Elisa Pioldi]()
 - [Edoardo]()
