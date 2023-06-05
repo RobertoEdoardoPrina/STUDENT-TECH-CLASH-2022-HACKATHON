@@ -1,7 +1,7 @@
 # STUDENT TECH CLASH 2022
 ## HACKATHON
 
-Hackathon made by Reply
+Hackathon about metaverse made by Reply
 
 
 
